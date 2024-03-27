@@ -1,6 +1,9 @@
 
 # Zero to Hero ML Workshop
 
+Slide Deck
+https://www.canva.com/design/DAF_MJvIs0I/eeM2wSPH4sUsOGjSCdXCPg/view
+
 This Jupyter notebook is a comprehensive guide designed for participants to transition from beginners to proficient users in the field of Machine Learning (ML). It covers essential concepts and techniques in data science and machine learning, using Python as the programming language.
 
 ## Objectives
